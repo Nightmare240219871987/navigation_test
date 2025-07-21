@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:navigation_test/pages/likes.dart';
-import 'package:navigation_test/pages/news.dart';
 import 'package:navigation_test/pages/profile.dart';
 
 class AppHome extends StatefulWidget {
