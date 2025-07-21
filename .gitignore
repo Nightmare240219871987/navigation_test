@@ -678,3 +678,8 @@ build/app/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module
 build/app/tmp/packJniLibsflutterBuildDebug/MANIFEST.MF
 build/reports/problems/problems-report.html
 build/7cd64f9cb24ffb75a33a818706651488.cache.dill.track.dill
+build/7cd64f9cb24ffb75a33a818706651488.cache.dill.track.dill
+build/app/intermediates/cxx/Debug/2f1x5v1z/logs/arm64-v8a/generate_cxx_metadata_471_timing.txt
+build/app/intermediates/cxx/Debug/2f1x5v1z/logs/armeabi-v7a/generate_cxx_metadata_471_timing.txt
+build/app/intermediates/cxx/Debug/2f1x5v1z/logs/x86/generate_cxx_metadata_471_timing.txt
+build/app/intermediates/cxx/Debug/2f1x5v1z/logs/x86_64/generate_cxx_metadata_471_timing.txt
